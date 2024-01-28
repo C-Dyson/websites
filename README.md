@@ -1,2 +1,2 @@
 # websites
-This is where I will store my new websites
+This is where I will store my new websites going forward.
